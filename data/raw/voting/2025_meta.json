@@ -1,0 +1,261 @@
+{
+  "AT": {
+    "artist": "JJ",
+    "song": "Wasted Love",
+    "bpm": 133,
+    "tone": "C# minor",
+    "yt_id": "onOex2WXjbA"
+  },
+  "IL": {
+    "artist": "Yuval Raphael",
+    "song": "New Day Will Rise",
+    "bpm": 158,
+    "tone": "G minor",
+    "yt_id": "_7zHp51j2WM"
+  },
+  "EE": {
+    "artist": "Tommy Cash",
+    "song": "Espresso macchiato",
+    "bpm": 120,
+    "tone": "B minor",
+    "yt_id": "9b9Z5HSCXOI"
+  },
+  "SE": {
+    "artist": "KAJ",
+    "song": "Bara bada bastu",
+    "bpm": 106,
+    "tone": "A minor",
+    "yt_id": "WSh7U3m9KgA"
+  },
+  "IT": {
+    "artist": "Lucio Corsi",
+    "song": "Volevo essere un duro",
+    "bpm": 79,
+    "tone": "E major",
+    "yt_id": "Vlu5XXDwHos"
+  },
+  "GR": {
+    "artist": "Klavdia",
+    "song": "Asteromáta",
+    "bpm": 122,
+    "tone": "C# minor",
+    "yt_id": "1qbWRl6h6to"
+  },
+  "FR": {
+    "artist": "Louane",
+    "song": "Maman",
+    "bpm": 88,
+    "tone": "G minor",
+    "yt_id": "jhqJY0ll1Wo"
+  },
+  "AL": {
+    "artist": "Shkodra Elektronike",
+    "song": "Zjerm",
+    "bpm": 95,
+    "tone": "C minor",
+    "yt_id": "xfn6ssOf_zU"
+  },
+  "UA": {
+    "artist": "Ziferblat",
+    "song": "Bird of Pray",
+    "bpm": 134,
+    "tone": "F# minor",
+    "yt_id": "-DG0l8sSNJM"
+  },
+  "CH": {
+    "artist": "Zoë Më",
+    "song": "Voyage",
+    "bpm": 170,
+    "tone": "C minor",
+    "yt_id": "5TMc6HzimQo"
+  },
+  "FI": {
+    "artist": "Erika Vikman",
+    "song": "Ich komme",
+    "bpm": 147,
+    "tone": "G major",
+    "yt_id": "V3vbVd1ynnk"
+  },
+  "NL": {
+    "artist": "Claude",
+    "song": "C'est La Vie",
+    "bpm": 124,
+    "tone": "A major",
+    "yt_id": "LiTQVJwxvfE"
+  },
+  "LV": {
+    "artist": "Tautumeitas",
+    "song": "Bur man laimi",
+    "bpm": 140,
+    "tone": "A major",
+    "yt_id": "nkvcMe3NiQ0"
+  },
+  "PL": {
+    "artist": "Justyna Steczkowska",
+    "song": "Gaja",
+    "bpm": 116,
+    "tone": "A minor",
+    "yt_id": "eg5RtEX1zJ0"
+  },
+  "DE": {
+    "artist": "Abor & Tynna",
+    "song": "Baller",
+    "bpm": 138,
+    "tone": "C minor",
+    "yt_id": "3rrWZ6cldsA"
+  },
+  "LT": {
+    "artist": "Katarsis",
+    "song": "Tavo akys",
+    "bpm": 110,
+    "tone": "A minor",
+    "yt_id": "3F6bwWGhm_s"
+  },
+  "MT": {
+    "artist": "Miriana Conte",
+    "song": "Serving",
+    "bpm": 122,
+    "tone": "E minor",
+    "yt_id": "povnGP6k0sI"
+  },
+  "NO": {
+    "artist": "Kyle Alessandro",
+    "song": "Lighter",
+    "bpm": 105,
+    "tone": "D minor",
+    "yt_id": "gQOGxx6Fk9k"
+  },
+  "GB": {
+    "artist": "Remember Monday",
+    "song": "What The Hell Just Happened?",
+    "bpm": 136,
+    "tone": "G major",
+    "yt_id": "Ur5qRh0BaHk"
+  },
+  "AM": {
+    "artist": "Parg",
+    "song": "Survivor",
+    "bpm": 132,
+    "tone": "D minor",
+    "yt_id": "qHkZWLld-pw"
+  },
+  "PT": {
+    "artist": "Napa",
+    "song": "Deslocado",
+    "bpm": 76,
+    "tone": "F# major",
+    "yt_id": "waInyqBwSo0"
+  },
+  "LU": {
+    "artist": "Laura Thorn",
+    "song": "La poupée monte le son",
+    "bpm": 132,
+    "tone": "G major",
+    "yt_id": "GT7ZZBCscUg"
+  },
+  "DK": {
+    "artist": "Sissal",
+    "song": "Hallucination",
+    "bpm": 140,
+    "tone": "F# minor",
+    "yt_id": "B3BdsYDnS8M"
+  },
+  "ES": {
+    "artist": "Melody",
+    "song": "Esa diva",
+    "bpm": 127,
+    "tone": "F# major",
+    "yt_id": "IEKSa9FVLqA"
+  },
+  "IS": {
+    "artist": "Væb",
+    "song": "Róa",
+    "bpm": 140,
+    "tone": "Ab major",
+    "yt_id": "c73Lx1QUZZA"
+  },
+  "SM": {
+    "artist": "Gabry Ponte",
+    "song": "Tutta l'Italia",
+    "bpm": 128,
+    "tone": "F# major",
+    "yt_id": "hq6XIRKmA2A"
+  },
+  "CY": {
+    "artist": "Theo Evan",
+    "song": "Shh",
+    "bpm": 142,
+    "tone": "G major",
+    "yt_id": "egPAiAuC57k"
+  },
+  "AU": {
+    "artist": "Go-Jo",
+    "song": "Milkshake Man",
+    "bpm": 154,
+    "tone": "C major",
+    "yt_id": "EJ0RdIU_G8g"
+  },
+  "HR": {
+    "artist": "Marko Bošnjak",
+    "song": "Poison Cake",
+    "bpm": 171,
+    "tone": "F# minor",
+    "yt_id": "jzK4D_gfRjQ"
+  },
+  "CZ": {
+    "artist": "Adonxs",
+    "song": "Kiss Kiss Goodbye",
+    "bpm": 186,
+    "tone": "A minor",
+    "yt_id": "hdxna1DC7yo"
+  },
+  "IE": {
+    "artist": "Emmy",
+    "song": "Laika Party",
+    "bpm": 132,
+    "tone": "D minor",
+    "yt_id": "3MB628Kanzo"
+  },
+  "RS": {
+    "artist": "Princ",
+    "song": "Mila",
+    "bpm": 140,
+    "tone": "G minor",
+    "yt_id": "WlCoZ0UOXoY"
+  },
+  "GE": {
+    "artist": "Mariam Shengelia",
+    "song": "Freedom",
+    "bpm": 153,
+    "tone": "G major",
+    "yt_id": "jphJoo-CNtU"
+  },
+  "SI": {
+    "artist": "Klemen",
+    "song": "How Much Time Do We Have Left",
+    "bpm": 120,
+    "tone": "E major",
+    "yt_id": "Jbs9WlvIkg0"
+  },
+  "BE": {
+    "artist": "Red Sebastian",
+    "song": "Strobe Lights",
+    "bpm": 145,
+    "tone": "G major",
+    "yt_id": "fl4LaADiLBY"
+  },
+  "ME": {
+    "artist": "Nina Žižić",
+    "song": "Dobrodošli",
+    "bpm": 82,
+    "tone": "D minor",
+    "yt_id": "QxpOxioeZJw"
+  },
+  "AZ": {
+    "artist": "Mamagama",
+    "song": "Run With U",
+    "bpm": 116,
+    "tone": "G minor",
+    "yt_id": "wk1CUjaRKyo"
+  }
+}

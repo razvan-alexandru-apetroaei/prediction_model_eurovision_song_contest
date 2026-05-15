@@ -1,0 +1,275 @@
+{
+  "IT": {
+    "artist": "Måneskin",
+    "song": "Zitti e buoni",
+    "bpm": 103,
+    "tone": "A minor",
+    "yt_id": "RVH5dn1cxAQ"
+  },
+  "FR": {
+    "artist": "Barbara Pravi",
+    "song": "Voilà",
+    "bpm": 103,
+    "tone": "D minor",
+    "yt_id": "Unj9WbeLzRU"
+  },
+  "CH": {
+    "artist": "Gjon's Tears",
+    "song": "Tout l'univers",
+    "bpm": 123,
+    "tone": "A minor",
+    "yt_id": "jznH_fltcYA"
+  },
+  "IS": {
+    "artist": "Daði & Gagnamagnið",
+    "song": "10 Years",
+    "bpm": 123,
+    "tone": "A major",
+    "yt_id": "YSMhu-PrLME"
+  },
+  "UA": {
+    "artist": "Go_A",
+    "song": "Shum",
+    "bpm": 118,
+    "tone": "E major",
+    "yt_id": "lqvzDkgok_g"
+  },
+  "FI": {
+    "artist": "Blind Channel",
+    "song": "Dark Side",
+    "bpm": 98,
+    "tone": "E minor",
+    "yt_id": "fOPGxQ4fgVw"
+  },
+  "MT": {
+    "artist": "Destiny",
+    "song": "Je me casse",
+    "bpm": 112,
+    "tone": "C minor",
+    "yt_id": "jbbc2yKnv0M"
+  },
+  "LT": {
+    "artist": "The Roop",
+    "song": "Discoteque",
+    "bpm": 115,
+    "tone": "F minor",
+    "yt_id": "JNweec5olYw"
+  },
+  "RU": {
+    "artist": "Manizha",
+    "song": "Russian Woman",
+    "bpm": 102,
+    "tone": "A minor",
+    "yt_id": "V-Di9A28e5E"
+  },
+  "GR": {
+    "artist": "Stefania",
+    "song": "Last Dance",
+    "bpm": 98,
+    "tone": "G major",
+    "yt_id": "QhZhJFp0vVw"
+  },
+  "BG": {
+    "artist": "Victoria",
+    "song": "Growing Up Is Getting Old",
+    "bpm": 93,
+    "tone": "G major",
+    "yt_id": "B1ZiPrMwMYA"
+  },
+  "PT": {
+    "artist": "The Black Mamba",
+    "song": "Love Is On My Side",
+    "bpm": 137,
+    "tone": "E major",
+    "yt_id": "qq9SceXaukA"
+  },
+  "MD": {
+    "artist": "Natalia Gordienko",
+    "song": "Sugar",
+    "bpm": 120,
+    "tone": "F# minor",
+    "yt_id": "5I_1GTehgkI"
+  },
+  "SE": {
+    "artist": "Tusse",
+    "song": "Voices",
+    "bpm": 90,
+    "tone": "F major",
+    "yt_id": "NyJRyif6_kk"
+  },
+  "RS": {
+    "artist": "Hurricane",
+    "song": "Loco Loco",
+    "bpm": 104,
+    "tone": "F# minor",
+    "yt_id": "Q1lkpIqf7a4"
+  },
+  "CY": {
+    "artist": "Elena Tsagrinou",
+    "song": "El Diablo",
+    "bpm": 114,
+    "tone": "C major",
+    "yt_id": "MgGc1F_cOE8"
+  },
+  "IL": {
+    "artist": "Eden Alene",
+    "song": "Set Me Free",
+    "bpm": 107,
+    "tone": "C# minor",
+    "yt_id": "5Y-blG5ptwo"
+  },
+  "NO": {
+    "artist": "TIX",
+    "song": "Fallen Angel",
+    "bpm": 93,
+    "tone": "C# major",
+    "yt_id": "F0r3vmGLzZU"
+  },
+  "BE": {
+    "artist": "Hooverphonic",
+    "song": "The Wrong Place",
+    "bpm": 80,
+    "tone": "C major",
+    "yt_id": "HbpxcUMtjwY"
+  },
+  "AZ": {
+    "artist": "Efendi",
+    "song": "Mata Hari",
+    "bpm": 100,
+    "tone": "E minor",
+    "yt_id": "FTQ22S5YC7Q"
+  },
+  "AL": {
+    "artist": "Anxhela Peristeri",
+    "song": "Karma",
+    "bpm": 150,
+    "tone": "D minor",
+    "yt_id": "OxniMKVXjqM"
+  },
+  "SM": {
+    "artist": "Senhit feat. Flo Rida",
+    "song": "Adrenalina",
+    "bpm": 104,
+    "tone": "Bb minor",
+    "yt_id": "TkhiH-JXFPs"
+  },
+  "NL": {
+    "artist": "Jeangu Macrooy",
+    "song": "Birth Of A New Age",
+    "bpm": 95,
+    "tone": "Bb major",
+    "yt_id": "o3Da5cr2fTs"
+  },
+  "ES": {
+    "artist": "Blas Cantó",
+    "song": "Voy a quedarme",
+    "bpm": 76,
+    "tone": "Eb major",
+    "yt_id": "thV-vhOQHvQ"
+  },
+  "DE": {
+    "artist": "Jendrik",
+    "song": "I Don't Feel Hate",
+    "bpm": 114,
+    "tone": "F minor",
+    "yt_id": "1m0VEAfLV4E"
+  },
+  "GB": {
+    "artist": "James Newman",
+    "song": "Embers",
+    "bpm": 126,
+    "tone": "B major",
+    "yt_id": "VxNOynEJ6wc"
+  },
+  "HR": {
+    "artist": "Albina",
+    "song": "Tick-Tock",
+    "bpm": 126,
+    "tone": "E minor",
+    "yt_id": "vKdxjoNluzY"
+  },
+  "RO": {
+    "artist": "Roxen",
+    "song": "Amnesia",
+    "bpm": 120,
+    "tone": "Ab minor",
+    "yt_id": "5ZWcsj_6Log"
+  },
+  "DK": {
+    "artist": "Fyr og Flamme",
+    "song": "Øve os på hinanden",
+    "bpm": 124,
+    "tone": "C major",
+    "yt_id": "w2ytONrRyww"
+  },
+  "AT": {
+    "artist": "Vincent Bueno",
+    "song": "Amen",
+    "bpm": 80,
+    "tone": "F# minor",
+    "yt_id": "xV9_pKj8Df8"
+  },
+  "EE": {
+    "artist": "Uku Suviste",
+    "song": "The Lucky One",
+    "bpm": 88,
+    "tone": "E major",
+    "yt_id": "mhMZQyv_Fhw"
+  },
+  "SI": {
+    "artist": "Ana Soklič",
+    "song": "Amen",
+    "bpm": 163,
+    "tone": "B major",
+    "yt_id": "J9jWDxKQ50s"
+  },
+  "PL": {
+    "artist": "Rafał",
+    "song": "The Ride",
+    "bpm": 132,
+    "tone": "F# major",
+    "yt_id": "Uy6TeDNvSGo"
+  },
+  "AU": {
+    "artist": "Montaigne",
+    "song": "Technicolour",
+    "bpm": 119,
+    "tone": "F major",
+    "yt_id": "CoUTzNXQud0"
+  },
+  "MK": {
+    "artist": "Vasil",
+    "song": "Here I Stand",
+    "bpm": 138,
+    "tone": "G major",
+    "yt_id": "WRcSHPb_Qwc"
+  },
+  "CZ": {
+    "artist": "Benny Cristo",
+    "song": "Omaga",
+    "bpm": 122,
+    "tone": "F# major",
+    "yt_id": "cgGRCTUPsqY"
+  },
+  "IE": {
+    "artist": "Lesley Roy",
+    "song": "Maps",
+    "bpm": 143,
+    "tone": "C major",
+    "yt_id": "FY2rxbZNvZ0"
+  },
+  "GE": {
+    "artist": "Tornike Kipiani",
+    "song": "You",
+    "bpm": 134,
+    "tone": "C major",
+    "yt_id": "5qnogt74_F8"
+  },
+  "LV": {
+    "artist": "Samanta Tīna",
+    "song": "The Moon Is Rising",
+    "bpm": 150,
+    "tone": "Eb minor",
+    "yt_id": "btA_Tyiyfhc"
+  }
+}

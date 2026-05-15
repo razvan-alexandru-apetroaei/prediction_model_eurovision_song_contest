@@ -1,0 +1,296 @@
+{
+  "UA": {
+    "artist": "Jamala",
+    "song": "1944",
+    "bpm": 120,
+    "tone": "G minor",
+    "yt_id": "B-rnM-MwRHY"
+  },
+  "AU": {
+    "artist": "Dami Im",
+    "song": "Sound of Silence",
+    "bpm": 136,
+    "tone": "D major",
+    "yt_id": "5ymFX91HwM0"
+  },
+  "RU": {
+    "artist": "Sergey Lazarev",
+    "song": "You Are the Only One",
+    "bpm": 128,
+    "tone": "Bb minor",
+    "yt_id": "e94dst20C9Y"
+  },
+  "BG": {
+    "artist": "Poli Genova",
+    "song": "If Love Was a Crime",
+    "bpm": 110,
+    "tone": "C major",
+    "yt_id": "PQqUTigWKHY"
+  },
+  "SE": {
+    "artist": "Frans",
+    "song": "If I Were Sorry",
+    "bpm": 105,
+    "tone": "Bb major",
+    "yt_id": "2AIPrVchJN8"
+  },
+  "FR": {
+    "artist": "Amir",
+    "song": "J'ai cherché",
+    "bpm": 122,
+    "tone": "C# major",
+    "yt_id": "-aLPsiyavcU"
+  },
+  "AM": {
+    "artist": "Iveta Mukuchyan",
+    "song": "LoveWave",
+    "bpm": 120,
+    "tone": "Ab major",
+    "yt_id": "nL066Rp7J7k"
+  },
+  "PL": {
+    "artist": "Michał Szpak",
+    "song": "Color of Your Life",
+    "bpm": 83,
+    "tone": "E major",
+    "yt_id": "87BBmxm7IJU"
+  },
+  "LT": {
+    "artist": "Donny Montell",
+    "song": "I've Been Waiting for This Night",
+    "bpm": 134,
+    "tone": "A major",
+    "yt_id": "O1wS7NNCo38"
+  },
+  "BE": {
+    "artist": "Laura Tesoro",
+    "song": "What's the Pressure",
+    "bpm": 117,
+    "tone": "B major",
+    "yt_id": "xDBjhAGaeWg"
+  },
+  "NL": {
+    "artist": "Douwe Bob",
+    "song": "Slow Down",
+    "bpm": 124,
+    "tone": "E minor",
+    "yt_id": "PwF9DI89q1w"
+  },
+  "MT": {
+    "artist": "Ira Losco",
+    "song": "Walk on Water",
+    "bpm": 124,
+    "tone": "F# major",
+    "yt_id": "58YS5m3EYVY"
+  },
+  "AT": {
+    "artist": "Zoë",
+    "song": "Loin d'ici",
+    "bpm": 143,
+    "tone": "B major",
+    "yt_id": "3xuPYt5i5cE"
+  },
+  "IL": {
+    "artist": "Hovi Star",
+    "song": "Made of Stars",
+    "bpm": 140,
+    "tone": "Bb major",
+    "yt_id": "SS5TB2XUdgs"
+  },
+  "LV": {
+    "artist": "Justs",
+    "song": "Heartbeat",
+    "bpm": 115,
+    "tone": "C# major",
+    "yt_id": "o-2Lt7zzlBU"
+  },
+  "IT": {
+    "artist": "Francesca Michielin",
+    "song": "No Degree of Separation",
+    "bpm": 152,
+    "tone": "C major",
+    "yt_id": "YfnhDfy8AjU"
+  },
+  "AZ": {
+    "artist": "Samra",
+    "song": "Miracle",
+    "bpm": 96,
+    "tone": "F minor",
+    "yt_id": "cB8eSLyffsI"
+  },
+  "RS": {
+    "artist": "Sanja Vučić ZAA",
+    "song": "Goodbye (Shelter)",
+    "bpm": 86,
+    "tone": "Eb minor",
+    "yt_id": "yTlxLiSQWjk"
+  },
+  "HU": {
+    "artist": "Freddie",
+    "song": "Pioneer",
+    "bpm": 144,
+    "tone": "C minor",
+    "yt_id": "bT2DcpqvorI"
+  },
+  "GE": {
+    "artist": "Nika Kocharov & Young Georgian Lolitaz",
+    "song": "Midnight Gold",
+    "bpm": 127,
+    "tone": "A minor",
+    "yt_id": "rviE2-9eiTI"
+  },
+  "CY": {
+    "artist": "Minus One",
+    "song": "Alter Ego",
+    "bpm": 130,
+    "tone": "Bb minor",
+    "yt_id": "idUxTqmCFR0"
+  },
+  "ES": {
+    "artist": "Barei",
+    "song": "Say Yay!",
+    "bpm": 125,
+    "tone": "C# major",
+    "yt_id": "EgbjNsxehrY"
+  },
+  "HR": {
+    "artist": "Nina Kraljić",
+    "song": "Lighthouse",
+    "bpm": 116,
+    "tone": "Bb minor",
+    "yt_id": "8QUM-_EbE2o"
+  },
+  "GB": {
+    "artist": "Joe & Jake",
+    "song": "You're Not Alone",
+    "bpm": 128,
+    "tone": "E major",
+    "yt_id": "XgGahKsBtts"
+  },
+  "CZ": {
+    "artist": "Gabriela Gunčíková",
+    "song": "I Stand",
+    "bpm": 205,
+    "tone": "G minor",
+    "yt_id": "wVy3rTNSN4Y"
+  },
+  "DE": {
+    "artist": "Jamie-Lee",
+    "song": "Ghost",
+    "bpm": 85,
+    "tone": "Bb minor",
+    "yt_id": "bHDHi37bboE"
+  },
+  "BA": {
+    "artist": "Dalal & Deen feat. Ana Rucner & Jala",
+    "song": "Ljubav je",
+    "bpm": 172,
+    "tone": "Eb major",
+    "yt_id": "QLrXmTB8OaY"
+  },
+  "MK": {
+    "artist": "Kaliopi",
+    "song": "Dona",
+    "bpm": 132,
+    "tone": "G major",
+    "yt_id": "uIIzwFoE6ME"
+  },
+  "BY": {
+    "artist": "Ivan",
+    "song": "Help You Fly",
+    "bpm": 93,
+    "tone": "D minor",
+    "yt_id": "pM07r57QqGg"
+  },
+  "SM": {
+    "artist": "Serhat",
+    "song": "I Didn't Know",
+    "bpm": 123,
+    "tone": "A major",
+    "yt_id": "HzPkDb2FSeg"
+  },
+  "NO": {
+    "artist": "Agnete",
+    "song": "Icebreaker",
+    "bpm": 178,
+    "tone": "F# minor",
+    "yt_id": "ACLcqZMwCSo"
+  },
+  "ME": {
+    "artist": "Highway",
+    "song": "The Real Thing",
+    "bpm": 117,
+    "tone": "B major",
+    "yt_id": "FgKehisElQI"
+  },
+  "SI": {
+    "artist": "ManuElla",
+    "song": "Blue and Red",
+    "bpm": 145,
+    "tone": "B minor",
+    "yt_id": "ulI3F1T82is"
+  },
+  "IS": {
+    "artist": "Greta Salóme",
+    "song": "Hear Them Calling",
+    "bpm": 133,
+    "tone": "F major",
+    "yt_id": "6osxLLPLUDk"
+  },
+  "FI": {
+    "artist": "Sandhja",
+    "song": "Sing It Away",
+    "bpm": 126,
+    "tone": "F major",
+    "yt_id": "oAQIPxgQkM8"
+  },
+  "IE": {
+    "artist": "Nicky Byrne",
+    "song": "Sunlight",
+    "bpm": 125,
+    "tone": "Bb major",
+    "yt_id": "ezJsUMD-y-I"
+  },
+  "AL": {
+    "artist": "Eneda Tarifa",
+    "song": "Fairytale",
+    "bpm": 97,
+    "tone": "G minor",
+    "yt_id": "jdT5EGcTjYw"
+  },
+  "GR": {
+    "artist": "Argo",
+    "song": "Utopian Land",
+    "bpm": 110,
+    "tone": "C minor",
+    "yt_id": "55ubbjAzwYA"
+  },
+  "DK": {
+    "artist": "Lighthouse X",
+    "song": "Soldiers of Love",
+    "bpm": 127,
+    "tone": "Ab major",
+    "yt_id": "jGz12i-wGd0"
+  },
+  "MD": {
+    "artist": "Lidia Isac",
+    "song": "Falling Stars",
+    "bpm": 126,
+    "tone": "Ab major",
+    "yt_id": "LlhV-E6leTI"
+  },
+  "CH": {
+    "artist": "Rykka",
+    "song": "The Last of Our Kind",
+    "bpm": 162,
+    "tone": "A major",
+    "yt_id": "HZI0_aR7BuA"
+  },
+  "EE": {
+    "artist": "Jüri Pootsmann",
+    "song": "Play",
+    "bpm": 90,
+    "tone": "A minor",
+    "yt_id": "g0-j0Eh8VNA"
+  }
+}

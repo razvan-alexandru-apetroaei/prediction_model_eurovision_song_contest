@@ -1,0 +1,14 @@
+# Install with:  py -3.11 -m pip install -r requirements.txt
+requests>=2.31
+beautifulsoup4>=4.12
+pandas>=2.0
+numpy>=1.26
+xgboost>=2.0
+scikit-learn>=1.4
+lxml>=5.0
+
+# Optional – only needed with --spotify flag:
+# spotipy>=2.23
+
+# Optional – only needed if YOUTUBE_API_KEY is set:
+# google-api-python-client>=2.100

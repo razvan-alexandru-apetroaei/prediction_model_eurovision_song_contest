@@ -1,0 +1,261 @@
+{
+  "CH": {
+    "artist": "Nemo",
+    "song": "The Code",
+    "bpm": 160,
+    "tone": "F minor",
+    "yt_id": "CO_qJf-nW0k"
+  },
+  "HR": {
+    "artist": "Baby Lasagna",
+    "song": "Rim Tim Tagi Dim",
+    "bpm": 128,
+    "tone": "A major",
+    "yt_id": "YIBjarAiAVc"
+  },
+  "UA": {
+    "artist": "alyona alyona & Jerry Heil",
+    "song": "Teresa & Maria",
+    "bpm": 114,
+    "tone": "G minor",
+    "yt_id": "d4N82wPpdg8"
+  },
+  "FR": {
+    "artist": "Slimane",
+    "song": "Mon amour",
+    "bpm": 142,
+    "tone": "B minor",
+    "yt_id": "-XyLecY2JyE"
+  },
+  "IL": {
+    "artist": "Eden Golan",
+    "song": "Hurricane",
+    "bpm": 87,
+    "tone": "E minor",
+    "yt_id": "K60BWlEhtAA"
+  },
+  "IE": {
+    "artist": "Bambie Thug",
+    "song": "Doomsday Blue",
+    "bpm": 130,
+    "tone": "Bb minor",
+    "yt_id": "UMq8ofCstMQ"
+  },
+  "IT": {
+    "artist": "Angelina Mango",
+    "song": "La noia",
+    "bpm": 112,
+    "tone": "D minor",
+    "yt_id": "zp1FXHjkjpQ"
+  },
+  "AM": {
+    "artist": "Ladaniva",
+    "song": "Jako",
+    "bpm": 133,
+    "tone": "G major",
+    "yt_id": "hAYXDoZzAyE"
+  },
+  "SE": {
+    "artist": "Marcus & Martinus",
+    "song": "Unforgettable",
+    "bpm": 117,
+    "tone": "C# minor",
+    "yt_id": "DcZpzObYzxs"
+  },
+  "PT": {
+    "artist": "Iolanda",
+    "song": "Grito",
+    "bpm": 152,
+    "tone": "Eb minor",
+    "yt_id": "OZn4-H6JvKU"
+  },
+  "GR": {
+    "artist": "Marina Satti",
+    "song": "Zari",
+    "bpm": 102,
+    "tone": "C major",
+    "yt_id": "ENb4LCeq9Lc"
+  },
+  "DE": {
+    "artist": "Isaak",
+    "song": "Always on the Run",
+    "bpm": 110,
+    "tone": "Bb minor",
+    "yt_id": "kVOHTxFOhak"
+  },
+  "LU": {
+    "artist": "Tali",
+    "song": "Fighter",
+    "bpm": 94,
+    "tone": "F# minor",
+    "yt_id": "TCWH3Nq5y9A"
+  },
+  "LT": {
+    "artist": "Silvester Belt",
+    "song": "Luktelk",
+    "bpm": 140,
+    "tone": "B minor",
+    "yt_id": "N8YuQzJLR_k"
+  },
+  "CY": {
+    "artist": "Silia Kapsis",
+    "song": "Liar",
+    "bpm": 100,
+    "tone": "Bb minor",
+    "yt_id": "c4wMioZXbMk"
+  },
+  "LV": {
+    "artist": "Dons",
+    "song": "Hollow",
+    "bpm": 148,
+    "tone": "C# minor",
+    "yt_id": "kgIwQkMwURY"
+  },
+  "RS": {
+    "artist": "Teya Dora",
+    "song": "Ramonda",
+    "bpm": 85,
+    "tone": "A minor",
+    "yt_id": "4hUg64uIY_4"
+  },
+  "GB": {
+    "artist": "Olly Alexander",
+    "song": "Dizzy",
+    "bpm": 126,
+    "tone": "C minor",
+    "yt_id": "q0_FdJqyQW0"
+  },
+  "FI": {
+    "artist": "Windows95man",
+    "song": "No Rules!",
+    "bpm": 160,
+    "tone": "B minor",
+    "yt_id": "7nidDtyS0Wo"
+  },
+  "EE": {
+    "artist": "5miinust & Puuluup",
+    "song": "(nendest) narkootikumidest ei tea me (küll) midagi",
+    "bpm": 145,
+    "tone": "D major",
+    "yt_id": "RSMMU2wX0Bk"
+  },
+  "GE": {
+    "artist": "Nutsa Buzaladze",
+    "song": "Firefighter",
+    "bpm": 115,
+    "tone": "E minor",
+    "yt_id": "He4PGhm7jOw"
+  },
+  "ES": {
+    "artist": "Nebulossa",
+    "song": "Zorra",
+    "bpm": 130,
+    "tone": "A minor",
+    "yt_id": "FOMoQoHG5aU"
+  },
+  "SI": {
+    "artist": "Raiven",
+    "song": "Veronika",
+    "bpm": 135,
+    "tone": "F minor",
+    "yt_id": "l86DxpRnz5M"
+  },
+  "AT": {
+    "artist": "Kaleen",
+    "song": "We Will Rave",
+    "bpm": 140,
+    "tone": "Ab major",
+    "yt_id": "VZ6SlZnk_EI"
+  },
+  "NO": {
+    "artist": "Gåte",
+    "song": "Ulveham",
+    "bpm": 130,
+    "tone": "B minor",
+    "yt_id": "YBbL8ORqNVU"
+  },
+  "AU": {
+    "artist": "Electric Fields",
+    "song": "One Milkali (One Blood)",
+    "bpm": 110,
+    "tone": "C minor",
+    "yt_id": "Wzpp6996QdI"
+  },
+  "CZ": {
+    "artist": "Aiko",
+    "song": "Pedestal",
+    "bpm": 150,
+    "tone": "F# minor",
+    "yt_id": "RiItbHRF1BY"
+  },
+  "PL": {
+    "artist": "Luna",
+    "song": "The Tower",
+    "bpm": 156,
+    "tone": "F major",
+    "yt_id": "ESKG8Uo1YaU"
+  },
+  "DK": {
+    "artist": "Saba",
+    "song": "Sand",
+    "bpm": 114,
+    "tone": "E minor",
+    "yt_id": "4f_phiGot7w"
+  },
+  "MD": {
+    "artist": "Natalia Barbu",
+    "song": "In the Middle",
+    "bpm": 114,
+    "tone": "Ab minor",
+    "yt_id": "evIoGkZXj2s"
+  },
+  "BE": {
+    "artist": "Mustii",
+    "song": "Before the Party's Over",
+    "bpm": 93,
+    "tone": "D minor",
+    "yt_id": "hNIemQwCaM4"
+  },
+  "SM": {
+    "artist": "Megara",
+    "song": "11:11",
+    "bpm": 136,
+    "tone": "G major",
+    "yt_id": "IqyJvkGmAjo"
+  },
+  "AL": {
+    "artist": "Besa",
+    "song": "Titan",
+    "bpm": 82,
+    "tone": "G major",
+    "yt_id": "aQG22XJIdWw"
+  },
+  "MT": {
+    "artist": "Sarah Bonnici",
+    "song": "Loop",
+    "bpm": 110,
+    "tone": "Ab minor",
+    "yt_id": "uG-JHeia13c"
+  },
+  "AZ": {
+    "artist": "Fahree feat. Ilkin Dovlatov",
+    "song": "Özünlə apar",
+    "bpm": 96,
+    "tone": "G minor",
+    "yt_id": "QhN9r8TH2Hw"
+  },
+  "IS": {
+    "artist": "Hera Björk",
+    "song": "Scared of Heights",
+    "bpm": 128,
+    "tone": "A minor",
+    "yt_id": "VChBgcycVl8"
+  },
+  "NL": {
+    "artist": "Joost Klein",
+    "song": "Europapa",
+    "bpm": 160,
+    "tone": "B minor",
+    "yt_id": "IiHFnmI8pxg"
+  }
+}

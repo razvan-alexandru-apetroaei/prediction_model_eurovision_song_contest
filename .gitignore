@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Secrets / API keys
+.env
+secrets.py
+
+# Große Modell-Dateien
+*.pkl
+*.joblib
+models/
+
+# Temporäre Debug-Skripte
+debug_*.py
+show_*.py
+validate.py
+backtest_year.py
+hindcast_2023.py
+fetch_market.py
+data_2026.py
+
+# Predictions (werden lokal generiert)
+data/predictions/
+
+# Processed data (wird durch build_dataset.py generiert)
+data/processed/training_data.csv

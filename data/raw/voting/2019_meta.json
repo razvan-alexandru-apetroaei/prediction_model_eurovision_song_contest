@@ -1,0 +1,289 @@
+{
+  "NL": {
+    "artist": "Duncan Laurence",
+    "song": "Arcade",
+    "bpm": 143,
+    "tone": "F major",
+    "yt_id": "R3D-r4ogr7s"
+  },
+  "IT": {
+    "artist": "Mahmood",
+    "song": "Soldi",
+    "bpm": 95,
+    "tone": "Eb minor",
+    "yt_id": "M-aoyPa41Ic"
+  },
+  "RU": {
+    "artist": "Sergey Lazarev",
+    "song": "Scream",
+    "bpm": 92,
+    "tone": "D major",
+    "yt_id": "eNzlxEZ_JG4"
+  },
+  "CH": {
+    "artist": "Luca Hänni",
+    "song": "She Got Me",
+    "bpm": 97,
+    "tone": "F# major",
+    "yt_id": "8aUYzqAIdoM"
+  },
+  "SE": {
+    "artist": "John Lundvik",
+    "song": "Too Late for Love",
+    "bpm": 105,
+    "tone": "B major",
+    "yt_id": "oEdWkdVKIqQ"
+  },
+  "NO": {
+    "artist": "KEiiNO",
+    "song": "Spirit In The Sky",
+    "bpm": 122,
+    "tone": "D minor",
+    "yt_id": "Ovt7YGHAj8I"
+  },
+  "MK": {
+    "artist": "Tamara Todevska",
+    "song": "Proud",
+    "bpm": 91,
+    "tone": "F major",
+    "yt_id": "0pAURAsum4A"
+  },
+  "AZ": {
+    "artist": "Chingiz",
+    "song": "Truth",
+    "bpm": 101,
+    "tone": "E major",
+    "yt_id": "D6vvuCiHwSs"
+  },
+  "AU": {
+    "artist": "Kate Miller-Heidke",
+    "song": "Zero Gravity",
+    "bpm": 132,
+    "tone": "F# major",
+    "yt_id": "Eo5H62mCIsg"
+  },
+  "IS": {
+    "artist": "Hatari",
+    "song": "Hatrið mun sigra",
+    "bpm": 110,
+    "tone": "E minor",
+    "yt_id": "kTb69WkBbvs"
+  },
+  "CZ": {
+    "artist": "Lake Malawi",
+    "song": "Friend of a Friend",
+    "bpm": 106,
+    "tone": "A minor",
+    "yt_id": "NJxLKFZKhNs"
+  },
+  "DK": {
+    "artist": "Leonora",
+    "song": "Love is Forever",
+    "bpm": 136,
+    "tone": "C# major",
+    "yt_id": "mucmvTLHJQM"
+  },
+  "CY": {
+    "artist": "Tamta",
+    "song": "Replay",
+    "bpm": 102,
+    "tone": "E minor",
+    "yt_id": "wIpEI-NhRxg"
+  },
+  "MT": {
+    "artist": "Michela",
+    "song": "Chameleon",
+    "bpm": 98,
+    "tone": "Bb minor",
+    "yt_id": "H-byNyainRA"
+  },
+  "SI": {
+    "artist": "Zala Kralj & Gašper Šantl",
+    "song": "Sebi",
+    "bpm": 108,
+    "tone": "Eb major",
+    "yt_id": "vGtPNQ6g6Ng"
+  },
+  "FR": {
+    "artist": "Bilal Hassani",
+    "song": "Roi",
+    "bpm": 142,
+    "tone": "F minor",
+    "yt_id": "AjZNbIQtWvw"
+  },
+  "AL": {
+    "artist": "Jonida Maliqi",
+    "song": "Ktheju tokës",
+    "bpm": 117,
+    "tone": "Eb minor",
+    "yt_id": "-NAbYUoxIfg"
+  },
+  "RS": {
+    "artist": "Nevena Božović",
+    "song": "Kruna",
+    "bpm": 107,
+    "tone": "Ab minor",
+    "yt_id": "X0mdaeAyPvA"
+  },
+  "SM": {
+    "artist": "Serhat",
+    "song": "Say Na Na Na",
+    "bpm": 118,
+    "tone": "F# major",
+    "yt_id": "d_iEis_ZRoQ"
+  },
+  "EE": {
+    "artist": "Victor Crone",
+    "song": "Storm",
+    "bpm": 128,
+    "tone": "D major",
+    "yt_id": "PppvSl3_W4E"
+  },
+  "GR": {
+    "artist": "Katerine Duska",
+    "song": "Better Love",
+    "bpm": 88,
+    "tone": "Ab major",
+    "yt_id": "5pQV_-40m_U"
+  },
+  "ES": {
+    "artist": "Miki",
+    "song": "La venda",
+    "bpm": 74,
+    "tone": "Eb major",
+    "yt_id": "lWXuohnM14U"
+  },
+  "IL": {
+    "artist": "Kobi Marimi",
+    "song": "Home",
+    "bpm": 109,
+    "tone": "Eb major",
+    "yt_id": "uCdS42uCqP0"
+  },
+  "BY": {
+    "artist": "Zena",
+    "song": "Like It",
+    "bpm": 105,
+    "tone": "C minor",
+    "yt_id": "C1Y9LBusHzA"
+  },
+  "DE": {
+    "artist": "S!sters",
+    "song": "Sister",
+    "bpm": 142,
+    "tone": "E major",
+    "yt_id": "yFbSj_yPCPM"
+  },
+  "GB": {
+    "artist": "Michael Rice",
+    "song": "Bigger Than Us",
+    "bpm": 164,
+    "tone": "F minor",
+    "yt_id": "HV-eOhTS8Dw"
+  },
+  "PL": {
+    "artist": "Tulia",
+    "song": "Pali się",
+    "bpm": 96,
+    "tone": "A major",
+    "yt_id": "IEu0F5uobVo"
+  },
+  "HU": {
+    "artist": "Joci Pápai",
+    "song": "Az én apám",
+    "bpm": 96,
+    "tone": "Eb minor",
+    "yt_id": "IpVr0pBLfI4"
+  },
+  "LT": {
+    "artist": "Jurij Veklenko",
+    "song": "Run with the Lions",
+    "bpm": 156,
+    "tone": "F major",
+    "yt_id": "5Nb3HMzsfZY"
+  },
+  "MD": {
+    "artist": "Anna Odobescu",
+    "song": "Stay",
+    "bpm": 155,
+    "tone": "Ab major",
+    "yt_id": "-mo207V5Z2o"
+  },
+  "BE": {
+    "artist": "Eliot",
+    "song": "Wake Up",
+    "bpm": 145,
+    "tone": "Bb major",
+    "yt_id": "iFB9NnjU4ns"
+  },
+  "RO": {
+    "artist": "Ester Peony",
+    "song": "On a Sunday",
+    "bpm": 72,
+    "tone": "F minor",
+    "yt_id": "cZC9o_Z90yo"
+  },
+  "GE": {
+    "artist": "Oto Nemsadze",
+    "song": "Keep on Going",
+    "bpm": 120,
+    "tone": "B minor",
+    "yt_id": "vu4nHsaAJwU"
+  },
+  "HR": {
+    "artist": "Roko",
+    "song": "The Dream",
+    "bpm": 114,
+    "tone": "F minor",
+    "yt_id": "gXT5E8kUgfs"
+  },
+  "PT": {
+    "artist": "Conan Osíris",
+    "song": "Telemóveis",
+    "bpm": 123,
+    "tone": "F minor",
+    "yt_id": "SIGn9_yMLn4"
+  },
+  "LV": {
+    "artist": "Carousel",
+    "song": "That Night",
+    "bpm": 93,
+    "tone": "G minor",
+    "yt_id": "NCtKU3m3R-8"
+  },
+  "AM": {
+    "artist": "Srbuk",
+    "song": "Walking Out",
+    "bpm": 130,
+    "tone": "F minor",
+    "yt_id": "avBwSUYlTtI"
+  },
+  "ME": {
+    "artist": "D mol",
+    "song": "Heaven",
+    "bpm": 92,
+    "tone": "D major",
+    "yt_id": "oV200JAouTc"
+  },
+  "FI": {
+    "artist": "Darude feat. Sebastian Rejman",
+    "song": "Look Away",
+    "bpm": 126,
+    "tone": "Bb minor",
+    "yt_id": "VSPhIwOJfRs"
+  },
+  "AT": {
+    "artist": "Pænda",
+    "song": "Limits",
+    "bpm": 135,
+    "tone": "F major",
+    "yt_id": "FVSZDF9O-bA"
+  },
+  "IE": {
+    "artist": "Sarah McTernan",
+    "song": "22",
+    "bpm": 125,
+    "tone": "C major",
+    "yt_id": "lX7DT9GMHQM"
+  }
+}

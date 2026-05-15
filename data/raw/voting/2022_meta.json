@@ -1,0 +1,282 @@
+{
+  "UA": {
+    "artist": "Kalush Orchestra",
+    "song": "Stefania",
+    "bpm": 105,
+    "tone": "D minor",
+    "yt_id": "F1fl60ypdLs"
+  },
+  "GB": {
+    "artist": "Sam Ryder",
+    "song": "Space Man",
+    "bpm": 162,
+    "tone": "B major",
+    "yt_id": "RZ0hqX_92zI"
+  },
+  "ES": {
+    "artist": "Chanel",
+    "song": "SloMo",
+    "bpm": 105,
+    "tone": "C# minor",
+    "yt_id": "jSQYTt4xg3I"
+  },
+  "SE": {
+    "artist": "Cornelia Jakobs",
+    "song": "Hold Me Closer",
+    "bpm": 97,
+    "tone": "F# major",
+    "yt_id": "i777psA2gP4"
+  },
+  "RS": {
+    "artist": "Konstrakta",
+    "song": "In corpore sano",
+    "bpm": 136,
+    "tone": "C minor",
+    "yt_id": "nBtQj1MfNYA"
+  },
+  "IT": {
+    "artist": "Mahmood & Blanco",
+    "song": "Brividi",
+    "bpm": 123,
+    "tone": "C major",
+    "yt_id": "blEy4xHuMbY"
+  },
+  "MD": {
+    "artist": "Zdob și Zdub & Advahov Brothers",
+    "song": "Trenulețul",
+    "bpm": 142,
+    "tone": "A major",
+    "yt_id": "DUqf_zO2QaI"
+  },
+  "GR": {
+    "artist": "Amanda Georgiadi Tenfjord",
+    "song": "Die Together",
+    "bpm": 150,
+    "tone": "F major",
+    "yt_id": "BWeT0nJpB3Y"
+  },
+  "PT": {
+    "artist": "Maro",
+    "song": "Saudade, saudade",
+    "bpm": 110,
+    "tone": "C# major",
+    "yt_id": "mZtbD47u6yI"
+  },
+  "NO": {
+    "artist": "Subwoolfer",
+    "song": "Give That Wolf a Banana",
+    "bpm": 124,
+    "tone": "C minor",
+    "yt_id": "adCU2rQyDeY"
+  },
+  "NL": {
+    "artist": "S10",
+    "song": "De diepte",
+    "bpm": 90,
+    "tone": "F major",
+    "yt_id": "sgOnu7ux2-k"
+  },
+  "PL": {
+    "artist": "Ochman",
+    "song": "River",
+    "bpm": 140,
+    "tone": "Eb major",
+    "yt_id": "jRVDZ6446eM"
+  },
+  "EE": {
+    "artist": "Stefan",
+    "song": "Hope",
+    "bpm": 123,
+    "tone": "Eb major",
+    "yt_id": "GdTpQmMem8U"
+  },
+  "LT": {
+    "artist": "Monika Liu",
+    "song": "Sentimentai",
+    "bpm": 93,
+    "tone": "D minor",
+    "yt_id": "BVqSTVJhD44"
+  },
+  "AU": {
+    "artist": "Sheldon Riley",
+    "song": "Not The Same",
+    "bpm": 127,
+    "tone": "Bb minor",
+    "yt_id": "wosfFz2FJPU"
+  },
+  "AZ": {
+    "artist": "Nadir Rustamli",
+    "song": "Fade To Black",
+    "bpm": 130,
+    "tone": "A minor",
+    "yt_id": "tegPzHEL4ms"
+  },
+  "CH": {
+    "artist": "Marius Bear",
+    "song": "Boys Do Cry",
+    "bpm": 120,
+    "tone": "F major",
+    "yt_id": "hq2HCmHv5p4"
+  },
+  "RO": {
+    "artist": "WRS",
+    "song": "Llámame",
+    "bpm": 120,
+    "tone": "F major",
+    "yt_id": "nPpuwy79sHs"
+  },
+  "BE": {
+    "artist": "Jérémie Makiese",
+    "song": "Miss You",
+    "bpm": 144,
+    "tone": "F# minor",
+    "yt_id": "sB09advfF6E"
+  },
+  "AM": {
+    "artist": "Rosa Linn",
+    "song": "Snap",
+    "bpm": 172,
+    "tone": "C major",
+    "yt_id": "DAJ6vfmD_ic"
+  },
+  "FI": {
+    "artist": "The Rasmus",
+    "song": "Jezebel",
+    "bpm": 116,
+    "tone": "E major",
+    "yt_id": "LSi9nfr65FE"
+  },
+  "CZ": {
+    "artist": "We Are Domi",
+    "song": "Lights Off",
+    "bpm": 126,
+    "tone": "A minor",
+    "yt_id": "EGRzSefqOm0"
+  },
+  "IS": {
+    "artist": "Systur",
+    "song": "Með hækkandi sól",
+    "bpm": 100,
+    "tone": "D minor",
+    "yt_id": "G71c48O3j-s"
+  },
+  "FR": {
+    "artist": "Alvan & Ahez",
+    "song": "Fulenn",
+    "bpm": 120,
+    "tone": "Bb minor",
+    "yt_id": "H1lcGXwOqJI"
+  },
+  "DE": {
+    "artist": "Malik Harris",
+    "song": "Rockstars",
+    "bpm": 81,
+    "tone": "G major",
+    "yt_id": "2BYIou-oWXA"
+  },
+  "HR": {
+    "artist": "Mia Dimšić",
+    "song": "Guilty Pleasure",
+    "bpm": 84,
+    "tone": "F major",
+    "yt_id": "9vBQdtW3mJE"
+  },
+  "MK": {
+    "artist": "Andrea",
+    "song": "Circles",
+    "bpm": 115,
+    "tone": "D major",
+    "yt_id": "zvOihqB4eKk"
+  },
+  "AL": {
+    "artist": "Ronela Hajati",
+    "song": "Sekret",
+    "bpm": 100,
+    "tone": "F major",
+    "yt_id": "_jWXmo0-ZjI"
+  },
+  "CY": {
+    "artist": "Andromache",
+    "song": "Ela",
+    "bpm": 98,
+    "tone": "Eb minor",
+    "yt_id": "W2IUdTl-gAI"
+  },
+  "IL": {
+    "artist": "Michael Ben David",
+    "song": "I.M",
+    "bpm": 120,
+    "tone": "Ab minor",
+    "yt_id": "XgXjPUsjx4Y"
+  },
+  "DK": {
+    "artist": "Reddi",
+    "song": "The Show",
+    "bpm": 185,
+    "tone": "C major",
+    "yt_id": "cVg6MpVR2Pw"
+  },
+  "LV": {
+    "artist": "Citi Zēni",
+    "song": "Eat Your Salad",
+    "bpm": 115,
+    "tone": "B minor",
+    "yt_id": "TM0_0WfuxSk"
+  },
+  "SM": {
+    "artist": "Achille Lauro",
+    "song": "Stripper",
+    "bpm": 140,
+    "tone": "A minor",
+    "yt_id": "vCmX64N_sXM"
+  },
+  "IE": {
+    "artist": "Brooke",
+    "song": "That's Rich",
+    "bpm": 123,
+    "tone": "A minor",
+    "yt_id": "Kq2AJrWm04s"
+  },
+  "MT": {
+    "artist": "Emma Muscat",
+    "song": "I Am What I Am",
+    "bpm": 98,
+    "tone": "G major",
+    "yt_id": "DFCFM5qtvms"
+  },
+  "AT": {
+    "artist": "LUM!X & Pia Maria",
+    "song": "Halo",
+    "bpm": 150,
+    "tone": "E minor",
+    "yt_id": "dMgjHYwXSuo"
+  },
+  "ME": {
+    "artist": "Vladana",
+    "song": "Breathe",
+    "bpm": 153,
+    "tone": "G minor",
+    "yt_id": "L-ViRVRiGl0"
+  },
+  "BG": {
+    "artist": "Intelligent Music Project",
+    "song": "Intention",
+    "bpm": 162,
+    "tone": "D major",
+    "yt_id": "EwZTI5AoTg4"
+  },
+  "GE": {
+    "artist": "Circus Mircus",
+    "song": "Lock Me In",
+    "bpm": 107,
+    "tone": "D major",
+    "yt_id": "zXiZAbqETvk"
+  },
+  "SI": {
+    "artist": "LPS",
+    "song": "Disko",
+    "bpm": 120,
+    "tone": "E minor",
+    "yt_id": "S1tFqoflsT8"
+  }
+}

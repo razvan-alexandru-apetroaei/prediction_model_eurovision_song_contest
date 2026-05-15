@@ -1,0 +1,303 @@
+{
+  "IL": {
+    "artist": "Netta",
+    "song": "Toy",
+    "bpm": 130,
+    "tone": "Eb minor",
+    "yt_id": "84LBjXaeKk4"
+  },
+  "CY": {
+    "artist": "Eleni Foureira",
+    "song": "Fuego",
+    "bpm": 101,
+    "tone": "A major",
+    "yt_id": "vyDTbJ4wenY"
+  },
+  "AT": {
+    "artist": "Cesár Sampson",
+    "song": "Nobody But You",
+    "bpm": 85,
+    "tone": "G major",
+    "yt_id": "a8Yvzo1puoE"
+  },
+  "DE": {
+    "artist": "Michael Schulte",
+    "song": "You Let Me Walk Alone",
+    "bpm": 149,
+    "tone": "B major",
+    "yt_id": "N4YwSy4Q9k0"
+  },
+  "IT": {
+    "artist": "Ermal Meta & Fabrizio Moro",
+    "song": "Non mi avete fatto niente",
+    "bpm": 90,
+    "tone": "Eb minor",
+    "yt_id": "81M-mp5t8uM"
+  },
+  "CZ": {
+    "artist": "Mikolas Josef",
+    "song": "Lie To Me",
+    "bpm": 106,
+    "tone": "F# major",
+    "yt_id": "w0ZUuQe0shk"
+  },
+  "SE": {
+    "artist": "Benjamin Ingrosso",
+    "song": "Dance You Off",
+    "bpm": 109,
+    "tone": "C# major",
+    "yt_id": "z101xtUBflU"
+  },
+  "EE": {
+    "artist": "Elina Nechayeva",
+    "song": "La forza",
+    "bpm": 97,
+    "tone": "D minor",
+    "yt_id": "ImawXdXIGd8"
+  },
+  "DK": {
+    "artist": "Rasmussen",
+    "song": "Higher Ground",
+    "bpm": 164,
+    "tone": "F# minor",
+    "yt_id": "c0kP074Mw0k"
+  },
+  "MD": {
+    "artist": "DoReDos",
+    "song": "My Lucky Day",
+    "bpm": 122,
+    "tone": "D minor",
+    "yt_id": "5evrVL1rJPA"
+  },
+  "AL": {
+    "artist": "Eugent Bushpepa",
+    "song": "Mall",
+    "bpm": 127,
+    "tone": "E major",
+    "yt_id": "uyl1b1fVmdU"
+  },
+  "LT": {
+    "artist": "Ieva Zasimauskaitė",
+    "song": "When We're Old",
+    "bpm": 89,
+    "tone": "Bb major",
+    "yt_id": "pPDFhfU25go"
+  },
+  "FR": {
+    "artist": "Madame Monsieur",
+    "song": "Mercy",
+    "bpm": 97,
+    "tone": "A minor",
+    "yt_id": "vjLuTtUv0Ns"
+  },
+  "BG": {
+    "artist": "Equinox",
+    "song": "Bones",
+    "bpm": 88,
+    "tone": "F# minor",
+    "yt_id": "vC-1tdGDFQc"
+  },
+  "NO": {
+    "artist": "Alexander Rybak",
+    "song": "That's How You Write a Song",
+    "bpm": 104,
+    "tone": "F minor",
+    "yt_id": "N17BdRwOvBA"
+  },
+  "IE": {
+    "artist": "Ryan O'Shaughnessy",
+    "song": "Together",
+    "bpm": 94,
+    "tone": "F major",
+    "yt_id": "QD1cQ2wZ1dk"
+  },
+  "UA": {
+    "artist": "Mélovin",
+    "song": "Under The Ladder",
+    "bpm": 140,
+    "tone": "Eb minor",
+    "yt_id": "lhOuMYtQ94M"
+  },
+  "NL": {
+    "artist": "Waylon",
+    "song": "Outlaw In 'Em",
+    "bpm": 87,
+    "tone": "E major",
+    "yt_id": "p7jHz5asMs8"
+  },
+  "RS": {
+    "artist": "Sanja Ilić & Balkanika",
+    "song": "Nova deca",
+    "bpm": 125,
+    "tone": "F# major",
+    "yt_id": "WRQWQShbPHU"
+  },
+  "AU": {
+    "artist": "Jessica Mauboy",
+    "song": "We Got Love",
+    "bpm": 114,
+    "tone": "G major",
+    "yt_id": "2BBLTY6T2Ck"
+  },
+  "HU": {
+    "artist": "AWS",
+    "song": "Viszlát nyár",
+    "bpm": 164,
+    "tone": "Eb minor",
+    "yt_id": "p6e1TmYb33w"
+  },
+  "SI": {
+    "artist": "Lea Sirk",
+    "song": "Hvala, ne!",
+    "bpm": 140,
+    "tone": "Ab major",
+    "yt_id": "fBU0_hfST_o"
+  },
+  "ES": {
+    "artist": "Amaia & Alfred",
+    "song": "Tu canción",
+    "bpm": 121,
+    "tone": "C major",
+    "yt_id": "28oMEFgSoyk"
+  },
+  "GB": {
+    "artist": "SuRie",
+    "song": "Storm",
+    "bpm": 116,
+    "tone": "Bb major",
+    "yt_id": "8dmlXBBC6J8"
+  },
+  "FI": {
+    "artist": "Saara Aalto",
+    "song": "Monsters",
+    "bpm": 122,
+    "tone": "G major",
+    "yt_id": "hdjiuCUUpPc"
+  },
+  "PT": {
+    "artist": "Cláudia Pascoal",
+    "song": "O jardim",
+    "bpm": 120,
+    "tone": "Bb major",
+    "yt_id": "mHjGbADMcOI"
+  },
+  "RO": {
+    "artist": "The Humans",
+    "song": "Goodbye",
+    "bpm": 101,
+    "tone": "E major",
+    "yt_id": "DGR4S3y7qcw"
+  },
+  "LV": {
+    "artist": "Laura Rizzotto",
+    "song": "Funny Girl",
+    "bpm": 118,
+    "tone": "D minor",
+    "yt_id": "KGxANwWKz3U"
+  },
+  "MT": {
+    "artist": "Christabelle",
+    "song": "Taboo",
+    "bpm": 122,
+    "tone": "G major",
+    "yt_id": "d52ViPImdls"
+  },
+  "AZ": {
+    "artist": "Aisel",
+    "song": "X My Heart",
+    "bpm": 120,
+    "tone": "Ab major",
+    "yt_id": "1CUwlpqUuvA"
+  },
+  "BE": {
+    "artist": "Sennek",
+    "song": "A Matter of Time",
+    "bpm": 88,
+    "tone": "C minor",
+    "yt_id": "Z2cZE2gCfWg"
+  },
+  "CH": {
+    "artist": "Zibbz",
+    "song": "Stones",
+    "bpm": 166,
+    "tone": "F major",
+    "yt_id": "wJGTVsluHkw"
+  },
+  "PL": {
+    "artist": "Gromee feat. Lukas Meijer",
+    "song": "Light Me Up",
+    "bpm": 122,
+    "tone": "G major",
+    "yt_id": "oyoiCyP4Bkg"
+  },
+  "GR": {
+    "artist": "Yianna Terzi",
+    "song": "Oniro mou",
+    "bpm": 150,
+    "tone": "C# minor",
+    "yt_id": "-XOR1DhtDC0"
+  },
+  "AM": {
+    "artist": "Sevak Khanagyan",
+    "song": "Qami",
+    "bpm": 150,
+    "tone": "F major",
+    "yt_id": "CYlWiHjUK0c"
+  },
+  "RU": {
+    "artist": "Julia Samoylova",
+    "song": "I Won't Break",
+    "bpm": 91,
+    "tone": "D major",
+    "yt_id": "KujGHwyfMWM"
+  },
+  "BY": {
+    "artist": "Alekseev",
+    "song": "Forever",
+    "bpm": 115,
+    "tone": "A minor",
+    "yt_id": "ywy_y24v_ao"
+  },
+  "HR": {
+    "artist": "Franka",
+    "song": "Crazy",
+    "bpm": 98,
+    "tone": "A minor",
+    "yt_id": "YxBLFbW5BqE"
+  },
+  "ME": {
+    "artist": "Vanja Radovanović",
+    "song": "Inje",
+    "bpm": 79,
+    "tone": "F# minor",
+    "yt_id": "XEi080yOuB8"
+  },
+  "SM": {
+    "artist": "Jessika feat. Jenifer Brening",
+    "song": "Who We Are",
+    "bpm": 127,
+    "tone": "F# major",
+    "yt_id": "66D0pKVdA-4"
+  },
+  "GE": {
+    "artist": "Ethno-Jazz Band Iriao",
+    "song": "For You",
+    "bpm": 121,
+    "tone": "A minor",
+    "yt_id": "FvVx5-mzmm0"
+  },
+  "MK": {
+    "artist": "Eye Cue",
+    "song": "Lost And Found",
+    "bpm": 120,
+    "tone": "Ab major",
+    "yt_id": "MV_cR_Qb2Cg"
+  },
+  "IS": {
+    "artist": "Ari Ólafsson",
+    "song": "Our Choice",
+    "bpm": 130,
+    "tone": "B major",
+    "yt_id": "RQytWeg9CzE"
+  }
+}

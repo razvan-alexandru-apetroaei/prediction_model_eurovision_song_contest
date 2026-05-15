@@ -1,0 +1,18 @@
+{
+  "jury": {
+    "A_historical_voting": 0.2247,
+    "B_community_poll": 0.0594,
+    "C_youtube": 0.0237,
+    "E_contest_context": 0.071,
+    "G_eurojury": 0.078,
+    "F_odds": 0.5431
+  },
+  "tele": {
+    "A_historical_voting": 0.4117,
+    "B_community_poll": 0.0052,
+    "C_youtube": 0.1723,
+    "E_contest_context": 0.0842,
+    "G_eurojury": 0.0877,
+    "F_odds": 0.2388
+  }
+}

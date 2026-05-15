@@ -1,0 +1,261 @@
+{
+  "SE": {
+    "artist": "Loreen",
+    "song": "Tattoo",
+    "bpm": 150,
+    "tone": "Eb minor",
+    "yt_id": "BE2Fj0W4jP4"
+  },
+  "FI": {
+    "artist": "Käärijä",
+    "song": "Cha Cha Cha",
+    "bpm": 155,
+    "tone": "D major",
+    "yt_id": "l6rS8Dv5g-8"
+  },
+  "IL": {
+    "artist": "Noa Kirel",
+    "song": "Unicorn",
+    "bpm": 130,
+    "tone": "F# minor",
+    "yt_id": "Z3mIcCllJXY"
+  },
+  "IT": {
+    "artist": "Marco Mengoni",
+    "song": "Due vite",
+    "bpm": 117,
+    "tone": "D major",
+    "yt_id": "d6IiOSut_4M"
+  },
+  "NO": {
+    "artist": "Alessandra",
+    "song": "Queen of Kings",
+    "bpm": 126,
+    "tone": "E minor",
+    "yt_id": "PUHSM_vTqTI"
+  },
+  "UA": {
+    "artist": "Tvorchi",
+    "song": "Heart of Steel",
+    "bpm": 78,
+    "tone": "Ab minor",
+    "yt_id": "I2oqDpefJ1s"
+  },
+  "BE": {
+    "artist": "Gustaph",
+    "song": "Because of You",
+    "bpm": 127,
+    "tone": "F minor",
+    "yt_id": "U1xD14IMKtg"
+  },
+  "EE": {
+    "artist": "Alika",
+    "song": "Bridges",
+    "bpm": 140,
+    "tone": "C minor",
+    "yt_id": "HsbC-OYMA3s"
+  },
+  "AU": {
+    "artist": "Voyager",
+    "song": "Promise",
+    "bpm": 122,
+    "tone": "C major",
+    "yt_id": "GSoy_mJMlMY"
+  },
+  "CZ": {
+    "artist": "Vesna",
+    "song": "My Sister's Crown",
+    "bpm": 150,
+    "tone": "E minor",
+    "yt_id": "ag8qxpvTTy0"
+  },
+  "LT": {
+    "artist": "Monika Linkytė",
+    "song": "Stay",
+    "bpm": 98,
+    "tone": "B major",
+    "yt_id": "QsgouAEd34U"
+  },
+  "CY": {
+    "artist": "Andrew Lambrou",
+    "song": "Break a Broken Heart",
+    "bpm": 130,
+    "tone": "Eb minor",
+    "yt_id": "49YiimKeyDI"
+  },
+  "HR": {
+    "artist": "Let 3",
+    "song": "Mama ŠČ!",
+    "bpm": 135,
+    "tone": "C major",
+    "yt_id": "hGuGfdEJ5Pw"
+  },
+  "AM": {
+    "artist": "Brunette",
+    "song": "Future Lover",
+    "bpm": 103,
+    "tone": "D minor",
+    "yt_id": "h0q7AkYk2hY"
+  },
+  "AT": {
+    "artist": "Teya & Salena",
+    "song": "Who The Hell Is Edgar?",
+    "bpm": 82,
+    "tone": "F# minor",
+    "yt_id": "8uk64V9h0Ko"
+  },
+  "FR": {
+    "artist": "La Zarra",
+    "song": "Évidemment",
+    "bpm": 120,
+    "tone": "B major",
+    "yt_id": "fOtQJ4o-HoA"
+  },
+  "ES": {
+    "artist": "Blanca Paloma",
+    "song": "Eaea",
+    "bpm": 116,
+    "tone": "F minor",
+    "yt_id": "Vw6qPWhjevk"
+  },
+  "MD": {
+    "artist": "Pasha Parfeni",
+    "song": "Soarele și Luna",
+    "bpm": 125,
+    "tone": "Ab major",
+    "yt_id": "SABOfYgGk8M"
+  },
+  "PL": {
+    "artist": "Blanka",
+    "song": "Solo",
+    "bpm": 99,
+    "tone": "B minor",
+    "yt_id": "SEgF1aP-U1o"
+  },
+  "CH": {
+    "artist": "Remo Forrer",
+    "song": "Watergun",
+    "bpm": 138,
+    "tone": "Ab minor",
+    "yt_id": "l4NDErv49mk"
+  },
+  "SI": {
+    "artist": "Joker Out",
+    "song": "Carpe Diem",
+    "bpm": 132,
+    "tone": "C# minor",
+    "yt_id": "3LXlPviGiWc"
+  },
+  "AL": {
+    "artist": "Albina & Familja Kelmendi",
+    "song": "Duje",
+    "bpm": 110,
+    "tone": "D minor",
+    "yt_id": "TI9rSDhXwyc"
+  },
+  "PT": {
+    "artist": "Mimicat",
+    "song": "Ai coração",
+    "bpm": 145,
+    "tone": "F# minor",
+    "yt_id": "HYfkxX4PFyw"
+  },
+  "RS": {
+    "artist": "Luke Black",
+    "song": "Samo mi se spava",
+    "bpm": 103,
+    "tone": "A major",
+    "yt_id": "gPRfg9wzbpw"
+  },
+  "GB": {
+    "artist": "Mae Muller",
+    "song": "I Wrote A Song",
+    "bpm": 125,
+    "tone": "A minor",
+    "yt_id": "tvJEE2ryCRQ"
+  },
+  "DE": {
+    "artist": "Lord Of The Lost",
+    "song": "Blood & Glitter",
+    "bpm": 139,
+    "tone": "A minor",
+    "yt_id": "dyGR4YWlPEs"
+  },
+  "IS": {
+    "artist": "Diljá",
+    "song": "Power",
+    "bpm": 160,
+    "tone": "F minor",
+    "yt_id": "lzlTcA0OC5s"
+  },
+  "LV": {
+    "artist": "Sudden Lights",
+    "song": "Aijā",
+    "bpm": 160,
+    "tone": "A minor",
+    "yt_id": "SEykwl9X9SY"
+  },
+  "GE": {
+    "artist": "Iru",
+    "song": "Echo",
+    "bpm": 145,
+    "tone": "G minor",
+    "yt_id": "HNvGZeEQvfc"
+  },
+  "GR": {
+    "artist": "Victor Vernicos",
+    "song": "What They Say",
+    "bpm": 91,
+    "tone": "C major",
+    "yt_id": "gJSZA0Zh2xU"
+  },
+  "IE": {
+    "artist": "Wild Youth",
+    "song": "We Are One",
+    "bpm": 112,
+    "tone": "D major",
+    "yt_id": "80-4_rjW10U"
+  },
+  "NL": {
+    "artist": "Mia Nicolai & Dion Cooper",
+    "song": "Burning Daylight",
+    "bpm": 75,
+    "tone": "Eb major",
+    "yt_id": "3XAsam043OY"
+  },
+  "DK": {
+    "artist": "Reiley",
+    "song": "Breaking My Heart",
+    "bpm": 98,
+    "tone": "D major",
+    "yt_id": "XVZvzZF1JOk"
+  },
+  "AZ": {
+    "artist": "TuralTuranX",
+    "song": "Tell Me More",
+    "bpm": 96,
+    "tone": "D major",
+    "yt_id": "8BNtaW1IEtA"
+  },
+  "MT": {
+    "artist": "The Busker",
+    "song": "Dance (Our Own Party)",
+    "bpm": 103,
+    "tone": "F minor",
+    "yt_id": "zVmVt9qmg9g"
+  },
+  "RO": {
+    "artist": "Theodor Andrei",
+    "song": "D.G.T. (Off and On)",
+    "bpm": 110,
+    "tone": "A minor",
+    "yt_id": "Bf3iPXU1RYU"
+  },
+  "SM": {
+    "artist": "Piqued Jacks",
+    "song": "Like An Animal",
+    "bpm": 128,
+    "tone": "C major",
+    "yt_id": "pIdHjcqyLfo"
+  }
+}
