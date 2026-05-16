@@ -51,31 +51,31 @@ ODDS_JURY_2026: dict[str, float] = {
 }
 
 # Televote-Odds: wer gewinnt die Televoting-Abstimmung?
-# Ø aus 11 Bookmarkern: Betsson, Unibet, Bet365, Epic Bet, Boyle Sports,
-#                        Bwin, Ladbrokes, CoolBet, 7Bet, Betway, William Hill
+# Ø aus 11 Bookmarkern: Unibet, Bet365, CoolBet, Betway, Betsson, Epic Bet,
+#                        Boyle Sports, 7Bet, Ladbrokes, Bwin, William Hill
 ODDS_TELE_2026: dict[str, float] = {
-    "IL":   1.72,  # Israel          – TELE-FAVORIT (43%)
-    "FI":   5.73,  # Finnland        – (13%)
-    "GR":   8.00,  # Griechenland    – (9%)
-    "RO":  11.73,  # Rumänien        – (6%)
-    "BG":  14.27,  # Bulgarien       – (5%)
-    "MD":  20.18,  # Moldawien       – (4%)
-    "IT":  21.91,  # Italien         – (3%)
-    "UA":  33.36,  # Ukraine         – (2%)
-    "AU":  39.45,  # Australien      – (2%)
-    "DK":  62.27,  # Dänemark
-    "SE":  88.82,  # Schweden
-    "FR":  93.64,  # Frankreich
+    "IL":   1.70,  # Israel          – TELE-FAVORIT (45%)
+    "FI":   5.07,  # Finnland        – (18%)
+    "GR":   8.82,  # Griechenland    – (7%)
+    "BG":  13.14,  # Bulgarien       – (6%)
+    "RO":  13.45,  # Rumänien        – (5%)
+    "MD":  20.91,  # Moldawien       – (3%)
+    "IT":  22.18,  # Italien         – (3%)
+    "AU":  33.09,  # Australien      – (3%)
+    "UA":  34.27,  # Ukraine         – (2%)
+    "DK":  65.45,  # Dänemark
+    "SE":  90.64,  # Schweden
+    "FR":  95.45,  # Frankreich
     "CY":  96.45,  # Zypern
     "HR": 103.64,  # Kroatien
     "MT": 128.09,  # Malta
     "CZ": 200.82,  # Tschechien
     "RS": 200.82,  # Serbien
     "GB": 214.45,  # Großbritannien
-    "AL": 237.18,  # Albanien
-    "DE": 246.27,  # Deutschland
+    "AL": 228.09,  # Albanien
     "PL": 255.36,  # Polen
     "NO": 259.82,  # Norwegen
+    "DE": 264.45,  # Deutschland
     "LT": 269.00,  # Litauen
     "BE": 332.64,  # Belgien
     "AT": 341.73,  # Österreich
