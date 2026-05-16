@@ -1,8 +1,8 @@
 """
-2026 Eurovision market signals – Stand: 14. Mai 2026.
+2026 Eurovision market signals – Stand: 15. Mai 2026 (Finaltag, aktuellste Quoten).
 
 Enthält:
-  1. Wettquoten (decimal odds, Durchschnitt aus 15 Bookmaker-Quellen)
+  1. Wettquoten (decimal odds, Durchschnitt aus 11 Bookmaker-Quellen)
      → werden in Gewinnwahrscheinlichkeiten umgerechnet (Buchmacher-Marge entfernt)
 
   2. Rehearsal Press Scores (wiwibloggs.com, Durchschnitt der Journalistenbewertungen)
@@ -10,39 +10,40 @@ Enthält:
 """
 
 # ── Getrennte Jury- und Televote-Wettquoten ───────────────────────────────────
-# Stand: 15. Mai 2026 – Durchschnitt aus 12 Bookmaker-Quellen:
-# Betsson, Unibet, Bet365, EpicBet, Bwin, CoolBet,
-# Ladbrokes, Boyle Sports, 7Bet, William Hill, Betfred, Betway
+# Stand: 15. Mai 2026 (Finaltag) – Durchschnitt aus 11 Bookmaker-Quellen:
+# Betsson, Bwin, Bet365, Epic Bet, Ladbrokes, Unibet,
+# 7Bet, Boyle Sports, Cool Bet, Betway, William Hill
 # Quelle: eurovisionworld.com/odds/eurovision-jury
 #         eurovisionworld.com/odds/eurovision-tele
 
 # Jury-Odds: wer gewinnt die Jury-Abstimmung?
+# Ø aus 4 Bookmarkern: Betsson, 7Bet, Ladbrokes, Betway
 ODDS_JURY_2026: dict[str, float] = {
-    "AU":  2.6,   # Australien      – JURY-FAVORIT (30%)
-    "FI":  4.6,   # Finnland        – (17%)
-    "FR":  5.2,   # Frankreich      – (15%)
-    "DK":  5.8,   # Dänemark        – (13%)
-    "CZ":  8.7,   # Tschechien      – (9%)
-    "GR": 29.0,   # Griechenland    – (3%)
-    "MT": 32.9,   # Malta           – (2%)
-    "RO": 46.6,   # Rumänien        – (2%)
-    "IT": 54.8,   # Italien         – (1%)
-    "HR": 59.6,   # Kroatien        – (1%)
-    "SE": 60.7,   # Schweden        – (1%)
-    "UA": 66.2,   # Ukraine         – (1%)
-    "BG": 85.2,   # Bulgarien       – (1%)
-    "CY": 121.7,  # Zypern
-    "IL": 132.1,  # Israel
-    "AL": 132.5,  # Albanien
-    "GB": 170.8,  # Großbritannien
-    "MD": 234.2,  # Moldawien
-    "LT": 238.3,  # Litauen
-    "NO": 250.8,  # Norwegen
-    "BE": 263.3,  # Belgien
-    "RS": 271.7,  # Serbien
-    "PL": 275.8,  # Polen
-    "DE": 334.2,  # Deutschland
-    "AT": 392.5,  # Österreich
+    "AU":   1.80,  # Australien      – JURY-FAVORIT (42%)
+    "FI":   4.00,  # Finnland        – (19%)
+    "DK":   8.50,  # Dänemark        – (9%)
+    "FR":   8.50,  # Frankreich      – (9%)
+    "CZ":   9.00,  # Tschechien      – (8%)
+    "MT":  40.25,  # Malta           – (2%)
+    "GR":  42.75,  # Griechenland    – (2%)
+    "RO":  53.25,  # Rumänien        – (1%)
+    "HR":  66.00,  # Kroatien        – (1%)
+    "IT":  66.50,  # Italien         – (1%)
+    "SE":  81.00,  # Schweden        – (1%)
+    "UA":  86.00,  # Ukraine         – (1%)
+    "BG":  91.00,  # Bulgarien       – (1%)
+    "CY": 138.25,  # Zypern
+    "AL": 140.75,  # Albanien
+    "IL": 163.25,  # Israel
+    "GB": 188.25,  # Großbritannien
+    "MD": 250.75,  # Moldawien
+    "LT": 263.25,  # Litauen
+    "PL": 263.25,  # Polen
+    "NO": 325.75,  # Norwegen
+    "RS": 325.75,  # Serbien
+    "DE": 363.25,  # Deutschland
+    "BE": 375.75,  # Belgien
+    "AT": 413.25,  # Österreich
     # Nicht-Finalisten
     "GE": 501.0, "EE": 501.0, "ME": 501.0,
     "PT": 501.0, "SM": 501.0, "AM": 501.0,
@@ -50,32 +51,34 @@ ODDS_JURY_2026: dict[str, float] = {
 }
 
 # Televote-Odds: wer gewinnt die Televoting-Abstimmung?
+# Ø aus 11 Bookmarkern: Betsson, Unibet, Bet365, Epic Bet, Boyle Sports,
+#                        Bwin, Ladbrokes, CoolBet, 7Bet, Betway, William Hill
 ODDS_TELE_2026: dict[str, float] = {
-    "IL":  1.86,  # Israel          – TELE-FAVORIT (40%)
-    "GR":  4.62,  # Griechenland    – (16%)
-    "FI":  6.04,  # Finnland        – (12%)
-    "RO": 11.25,  # Rumänien        – (7%)
-    "MD": 14.58,  # Moldawien       – (5%)
-    "BG": 21.08,  # Bulgarien       – (4%)
-    "UA": 23.00,  # Ukraine         – (3%)
-    "IT": 26.42,  # Italien         – (3%)
-    "DK": 52.33,  # Dänemark
-    "FR": 54.25,  # Frankreich
-    "AU": 59.42,  # Australien
-    "SE": 61.17,  # Schweden
-    "CY": 70.42,  # Zypern
-    "HR": 83.33,  # Kroatien
-    "MT": 103.33, # Malta
-    "CZ": 161.67, # Tschechien
-    "RS": 163.33, # Serbien
-    "GB": 173.75, # Großbritannien
-    "DE": 198.75, # Deutschland
-    "AL": 199.17, # Albanien
-    "NO": 209.17, # Norwegen
-    "PL": 221.67, # Polen
-    "LT": 225.83, # Litauen
-    "BE": 288.33, # Belgien
-    "AT": 300.83, # Österreich
+    "IL":   1.72,  # Israel          – TELE-FAVORIT (43%)
+    "FI":   5.73,  # Finnland        – (13%)
+    "GR":   8.00,  # Griechenland    – (9%)
+    "RO":  11.73,  # Rumänien        – (6%)
+    "BG":  14.27,  # Bulgarien       – (5%)
+    "MD":  20.18,  # Moldawien       – (4%)
+    "IT":  21.91,  # Italien         – (3%)
+    "UA":  33.36,  # Ukraine         – (2%)
+    "AU":  39.45,  # Australien      – (2%)
+    "DK":  62.27,  # Dänemark
+    "SE":  88.82,  # Schweden
+    "FR":  93.64,  # Frankreich
+    "CY":  96.45,  # Zypern
+    "HR": 103.64,  # Kroatien
+    "MT": 128.09,  # Malta
+    "CZ": 200.82,  # Tschechien
+    "RS": 200.82,  # Serbien
+    "GB": 214.45,  # Großbritannien
+    "AL": 237.18,  # Albanien
+    "DE": 246.27,  # Deutschland
+    "PL": 255.36,  # Polen
+    "NO": 259.82,  # Norwegen
+    "LT": 269.00,  # Litauen
+    "BE": 332.64,  # Belgien
+    "AT": 341.73,  # Österreich
     # Nicht-Finalisten
     "GE": 501.0, "EE": 501.0, "ME": 501.0,
     "PT": 501.0, "SM": 501.0, "AM": 501.0,
